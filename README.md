@@ -82,7 +82,8 @@ Use the `BLANK_README.md` to get started.
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Next][Next.js]][Next-url]
-* [![Node.js][Node.js-logo]][Node.js-url]
+* ![Static Badge](https://img.shields.io/badge/Docker%20Desktop-1D63ED?style=for-the-badge&logo=docker)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
