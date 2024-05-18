@@ -82,7 +82,8 @@ Use the `BLANK_README.md` to get started.
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Next][Next.js]][Next-url]
-* ![Static Badge](https://img.shields.io/badge/Docker%20Desktop-1D63ED?style=for-the-badge&logo=docker&logoColor=fff&cacheSeconds=https%3A%2F%2Fwww.docker.com%2Fproducts%2Fdocker-desktop%2F&link=https%3A%2F%2Fwww.docker.com%2Fproducts%2Fdocker-desktop%2F)
+* [![Static Badge](https://img.shields.io/badge/Docker%20Desktop-1D63ED?style=for-the-badge&logo=docker&logoColor=fff)](https://www.docker.com/products/docker-desktop/)
+
 
 
 
