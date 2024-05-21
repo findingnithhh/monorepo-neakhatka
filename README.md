@@ -136,7 +136,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- BMC -->
 ## Business Model Canvas
-<a href="https://www.canva.com/design/DAGE7Fg9Oqg/anzWbiic07MlDBmKUWN5wA/edit?utm_content=DAGE7Fg9Oqg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">back to top</a>
+<a href="https://www.canva.com/design/DAGE7Fg9Oqg/anzWbiic07MlDBmKUWN5wA/edit?utm_content=DAGE7Fg9Oqg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Business Model Canvas</a>
 
 
 <!-- CONTACT -->
