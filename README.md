@@ -57,9 +57,6 @@ Change the way companies and internship seekers connect, make it easier and more
 ## Our mission
 Built a simplify platform that help both companies and seekers that matching requirement and seeker’s skill
 
-
-Use the `BLANK_README.md` to get started.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
