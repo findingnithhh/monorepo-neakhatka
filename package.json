@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "tsoa": "^6.2.1"
+  },
+  "name": "neakhatka_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "workspaces": [
+    "microservices/*",
+    "application/*"
+  ],
+  "scripts": {
+    "start:build": "docker-compose up --build",
+    "start:docker": "docker-compose up",
+    "stop:docker": "docker-compose down",
+    "start-company-service": "npm --prefix ./microservices/company-service run start:dev",
+    "start-api-gateway-service": "npm --prefix ./microservices/api-gateway run start:dev",
+    "start-auth-service": "npm --prefix ./microservices/auth-service run start",
+    "start-profile-service": "npm --prefix ./microservices/profile-service run start:dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
